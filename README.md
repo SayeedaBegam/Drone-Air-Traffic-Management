@@ -11,3 +11,14 @@ Run the "td3_per.py" inorder to start the training.
 
 #### Note 
 The trained model's stats will be stored in the "save_stat" folder and model will be updated in the "save_model" folder.
+
+#### Requirements
+AirSim 1.5.0
+TensorFlow-gpu 1.15
+OpenCV-Python 4.5.4.60
+Cuda Toolkit 11.0
+CuDNN 8 (conda repo)
+h5py 2.10.0
+Protobuf 3.20.1
+Keras 2.2.4
+msgpack-rpc-python (for RPC support in AirSim)
