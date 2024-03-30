@@ -23,4 +23,4 @@ The trained model's stats will be stored in the "save_stat" folder and model wil
 |h5py| 2.10.0|
 |Protobuf| 3.20.1|
 |Keras| 2.2.4|
-|msgpack-rpc-python| (for RPC support in AirSim)|
+|msgpack-rpc-python| supporting ver-1.5.0(for RPC support in AirSim)|
