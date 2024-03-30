@@ -1,5 +1,5 @@
 # TensorFlow Lite Object Detection on Android and Raspberry Pi
-# !!! THIS REPOSITORY IS A FORK OF THE ORIGINAL REPOSITORY AVAILABLE AT https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi AND CREDITS TO EDJEELECTRONICS !!!
+# !!! THIS REPOSITORY IS A FORK OF THE ORIGINAL REPOSITORY AVAILABLE AT "https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi" AND CREDITS TO EDJEELECTRONICS !!!
 
 Train your own TensorFlow Lite object detection models and run them on the Raspberry Pi, Android phones, and other edge devices! 
 
