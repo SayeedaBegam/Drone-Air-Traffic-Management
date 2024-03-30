@@ -6,4 +6,4 @@ Maps: [Easy](https://drive.google.com/file/d/1LigXGvDj0XZvgkffqBwe8XRWRmzMR93P/v
 
 Instructions: Run the td3_per.py inorder to start the training.
 
-The trained model's stats will be stored in the save_stat folder and model will be updated in the save_model folder.
+The trained model's stats will be stored in the "save_stat" folder and model will be updated in the "save_model" folder.
