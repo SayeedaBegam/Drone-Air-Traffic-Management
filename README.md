@@ -1,4 +1,5 @@
 # How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow (GPU) on Windows 10
+# !!! THIS REPOSITORY IS A FORK OF THE ORIGINAL REPOSITORY AVAILABLE AT "https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10" AND CREDITS TO EDJEELECTRONICS !!!
 
 ## Brief Summary
 *Last updated: 6/22/2019 with TensorFlow v1.13.1*
