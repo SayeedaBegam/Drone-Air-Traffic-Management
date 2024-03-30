@@ -15,12 +15,12 @@ The trained model's stats will be stored in the "save_stat" folder and model wil
 #### Requirements
 |Module|Version|
 |------|-------|
-|AirSim| 1.5.0|
-|TensorFlow-gpu| 1.15|
-|OpenCV-Python| 4.5.4.60|
-|Cuda Toolkit| 11.0|
-|CuDNN 8| (conda repo)|
-|h5py| 2.10.0|
-|Protobuf| 3.20.1|
-|Keras| 2.2.4|
-|msgpack-rpc-python| supporting ver-1.5.0(for RPC support in AirSim)|
+|AirSim|1.5.0|
+|TensorFlow-gpu|1.15|
+|OpenCV-Python|4.5.4.60|
+|Cuda Toolkit|11.0|
+|CuDNN 8|(conda repo)|
+|h5py|2.10.0|
+|Protobuf|3.20.1|
+|Keras|2.2.4|
+|msgpack-rpc-python|supporting 1.5.0 (for RPC support in AirSim)|
