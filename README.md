@@ -12,7 +12,7 @@ Run the "td3_per.py" inorder to start the training.
 #### Note 
 The trained model's stats will be stored in the "save_stat" folder and model will be updated in the "save_model" folder.
 
-#### Requirements
+#### Requirements/Dependencies
 |Module|Version|
 |------|-------|
 |AirSim|1.5.0|
