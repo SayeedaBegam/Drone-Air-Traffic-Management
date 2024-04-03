@@ -1,1 +1,7 @@
-Training in progress. TFLite Model yet to be uploaded.
+# TensorFlow Lite Model
+
+Contains two classes for object detection.
+
+Classes
+|- Building
+|- Tree
