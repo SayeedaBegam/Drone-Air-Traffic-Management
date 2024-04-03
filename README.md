@@ -3,7 +3,5 @@
 Contains two classes for object detection.
 
 Classes
-
-|- Building
-
-|- Tree
+1. Building
+2. Tree
